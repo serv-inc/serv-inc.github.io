@@ -2,7 +2,8 @@
 layout: post
 title:  "ISTQB foundation tests files"
 date:   2023-05-03 01:11:28 +0200
-categories: istqb
+categories: test
+tags: istqb, test, foundation
 ---
 
 In the course of preparing for the ISTQB foundation exam, the example
