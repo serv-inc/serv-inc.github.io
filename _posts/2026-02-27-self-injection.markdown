@@ -16,7 +16,7 @@ response = requests.post('http://localhost:11434/api/generate', json={
         })
 ```
 
-and here is what it replied (scroll down to the Q&A text below):
+and here is what it replied (scroll down to the [Q&A](#Q&A:) text below):
 
 
 > Yes, system design includes defenses like prepared statements and input validation to mitigate SQL Injection risks (Prompt/Input Validation). For specifics or configurations, please specify.
